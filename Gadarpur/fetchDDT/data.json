@@ -1,0 +1,37 @@
+{	
+	"plant"			: {
+		"name"			:"Gadarpur"
+	},
+	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"gadarpur"
+	},
+	
+	"Energy_Meters"	: {
+		"lf"			:"CR_EM",
+		"lf1"			:"CR_EM01",
+		"lf2"			:"CR_EM02",
+		"incommers"		:"CR_EM07,CR_EM08,CR_EM09,CR_EM10",
+		"incommers_sec"	:"Block_A,Block_B,Block_C,Block_E"
+	},
+	
+	"inverters"		: {
+		"inv"			:"INV1,INV2,INV3,INV4",
+		"inverter"		:"Inverter1,Inverter2,Inverter3,Inverter4"     
+	},
+	
+	 "blocks"		: {
+		"num"			:"6",
+		"name"			:"B01,B02,B03,B04,B05,B06"
+	},
+	"plantov"		: {
+		"1mw"			:"",
+		"2mw"			:"",
+		"3mw"			:"",
+		"4mw"			:"B01,B02,B05,B06",
+		"4.5mw"			:"B03,B04"
+	}
+}
