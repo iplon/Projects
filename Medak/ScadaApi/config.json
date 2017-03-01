@@ -1,0 +1,21 @@
+{
+	"plant"			: {
+		"name"			:"Medak"
+	},	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"medak"
+	},
+	"server_ip"	: {
+		"server1_ip"	:"",
+		"server2_ip"	:""
+	},
+    "Energy_Meters": {
+		"lf"		:"CR_EM",
+        	"lf1"	:"CR_EM01",
+		"lf2"		:"CR_EM02",
+		"incommers"	:"CR_EM06,CR_EM07,CR_EM08,CR_EM09,CR_EM10"
+    }
+}
