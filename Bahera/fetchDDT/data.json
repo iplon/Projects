@@ -1,0 +1,36 @@
+{	
+	"plant"			: {
+		"name"			:"Bahera"
+	},
+	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"",
+		"dbname"		:"bahera"
+	},
+	
+	"Energy_Meters"	: {
+		"lf"			:"CR_EM01",
+		"lf1"			:"",
+		"lf2"			:"",
+		"incommers"		:"CR_EM07,CR_EM08,CR_EM09,CR_EM10",
+		"incommers_sec"	:"Block_A,Block_B,Block_C,Block_D"
+	},
+	
+	"inverters"		: {
+		"inv"			:"INV1,INV2,INV3,INV4",
+		"inverter"		:"Inverter1,Inverter2,Inverter3,Inverter4"     
+	},
+	
+	 "blocks"		: {
+		"num"			:"4",
+		"name"			:"B01,B02,B03,B04"
+	},
+	"plantov"		: {
+		"1mw"			:"",
+		"2mw"			:"",
+		"3mw"			:"B04",
+		"4mw"			:"B01,B02,B03"
+	}
+}
