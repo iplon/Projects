@@ -1,0 +1,21 @@
+{
+	"plant"			: {
+		"name"			:"Ratanpura"
+	},	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"ratanpura"
+	},
+	"server_ip"	: {
+		"server1_ip"	:"192.168.5.82",
+		"server2_ip"	:"192.168.48.83"
+	},
+    "Energy_Meters": {
+		"lf"		:"CR_EM",
+        	"lf1"		:"CR_EM01",
+		"lf2"		:"CR_EM02",
+		"incommers"	:"CR_EM07,CR_EM08,CR_EM09,CR_EM10"
+    }
+}
