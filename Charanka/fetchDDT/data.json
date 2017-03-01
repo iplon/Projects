@@ -1,0 +1,36 @@
+{	
+	"plant"			: {
+		"name"			:"Charanka"
+	},
+	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"charanka"
+	},
+	
+	"Energy_Meters"	: {
+		"lf"			:"CR_EM01",
+		"lf1"			:"",
+		"lf2"			:"",
+		"incommers"		:"CR_EM06,CR_EM07,CR_EM08,CR_EM09,CR_EM10",
+		"incommers_sec"	:"Block_A,Block_B,Block_C,Block_D,Block_E"
+	},
+	
+	"inverters"		: {
+		"inv"			:"INV1,INV2,INV3,INV4,INV5,INV6,INV7",
+		"inverter"		:"Inverter1,Inverter2,Inverter3,Inverter4,Inverter5,Inverter6,Inverter7"     
+	},
+	
+	 "blocks"		: {
+		"num"			:"10",
+		"name"			:"A1,A2,A3,A4,A5,A6,A7,B,C1,C2"
+	},
+	"plantov"		: {
+		"1mw"			:"",
+		"2mw"			:"A1,A2,A3,A4,A5,A6,A7,B,C1,C2",
+		"3mw"			:"",
+		"4mw"			:""
+	}
+}
