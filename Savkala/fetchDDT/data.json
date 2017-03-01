@@ -1,0 +1,36 @@
+{	
+	"plant"			: {
+		"name"			:"Savkala"
+	},
+	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"savkala"
+	},
+	
+	"Energy_Meters"	: {
+		"lf"			:"CR_EM01",
+		"lf1"			:"",
+		"lf2"			:"",
+		"incommers"		:"CR_EM07,CR_EM08",
+		"incommers_sec"	:"Block_A,Block_B"
+	},
+	
+	"inverters"		: {
+		"inv"			:"INV1,INV2,INV3,INV4",
+		"inverter"		:"Inverter1,Inverter2,Inverter3,Inverter4"     
+	},
+	
+	 "blocks"		: {
+		"num"			:"7",
+		"name"			:"B01,B02,B03,B04,B05,B06,B07"
+	},
+	"plantov"		: {
+		"1mw"			:"",
+		"2mw"			:"B07",
+		"3mw"			:"B04",
+		"4mw"			:"B01,B02,B03,B05,B06"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"plant"			: {
+		"name"			:"Savkala"
+	},	
+	"db_credential"	: {
+		"hostname"		:"localhost",
+		"username"		:"root",
+		"password"		:"iplon321",
+		"dbname"		:"savkala"
+	},
+	"server_ip"	: {
+		"server1_ip"	:"192.168.48.83",
+		"server2_ip"	:""
+	},
+    "Energy_Meters": {
+		"lf"	:"CR_EM01",
+        "lf1"	:"",
+		"lf2"	:"",
+		"incommers"		:"CR_EM07,CR_EM08,CR_EM09,CR_EM10"
+    }
+}
